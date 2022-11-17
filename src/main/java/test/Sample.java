@@ -28,7 +28,7 @@ public class Sample extends HttpServlet {
 		out.println("<meta charset='utf-8'>");
 		out.println("</head>");
 		out.println("<body>");
-		out.println("こんにちは");
+		out.println("こんぬちは");
 		out.println("</body>");
 		out.println("</html>");
 	}
